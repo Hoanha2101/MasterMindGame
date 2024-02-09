@@ -13,16 +13,6 @@
 
 <img src="illustration\app.png">
 
-
-## **Architecture, way of doing things**
-
-The product is an application to check product defects on the bottled water production line system.
-The product includes 3 modules corresponding to each stage of packaging a bottle of water before bringing the product to market:
-
-- BOTTLE CHECK: check whether the shape of the water bottle matches the water bottle standards set by the manufacturer.
-- WATER LEVEL CHECK: check whether the water level matches the standard water level, not higher, not lower.
-- LABEL CHECK: check the integrity of the label.
-
 ## **Technology**
 <ul>
 <li>Python</li>
